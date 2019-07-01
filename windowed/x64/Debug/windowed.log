@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\balin\Documents\GitHub\hello-word\windowed\main.cpp(79,12): warning C4244:  'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\balin\Documents\GitHub\hello-word\windowed\main.cpp(16,7): warning C4101:  'hwnd': unreferenced local variable
+  windowed.vcxproj -> C:\Users\balin\Documents\GitHub\hello-word\x64\Debug\windowed.exe

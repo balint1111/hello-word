@@ -108,7 +108,7 @@ LRESULT CALLBACK WndProc0(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		SetRect(&rect, 0, 0, 800, 600);
 		FillRect(hdc, &rect, hBrush);
 		MoveToEx(hdc, 10, 10, NULL);
-		LineTo(hdc, 50, 60);
+		LineTo(hdc, 50, 70);
 
 
 		EndPaint(hwnd, &ps);
